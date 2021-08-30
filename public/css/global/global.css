@@ -154,6 +154,7 @@ html {
   padding: 50px;
   background: black;
   border-radius: 5px;
+  height: 100vh;
 }
 
 .divWhats {
